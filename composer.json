@@ -1,6 +1,6 @@
 {
 	"name": "macro/route",
-	"description": "A Routing package for macro",
+	"description": "Macro PHP router ",
 	"license": "MIT",
 	"keywords": ["macro","route"],
 	"version": "1.0.0",
