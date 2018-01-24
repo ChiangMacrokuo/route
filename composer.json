@@ -1,8 +1,8 @@
 {
-	"name": "macro/route",
+	"name": "Macro/Route",
 	"description": "Macro PHP router ",
 	"license": "MIT",
-	"keywords": ["macro","route"],
+	"keywords": ["Macro","Route"],
 	"version": "1.0.0",
 	"authors": [
 		{
